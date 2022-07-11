@@ -3,4 +3,4 @@
 
 - 🕵️‍♂️ I’m currently lerning redis and Vue
 
-<p align="left">😥 <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlsRemy" alt="Prince" /> </p>
