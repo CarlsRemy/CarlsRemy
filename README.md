@@ -2,3 +2,5 @@
 <h4 align="center">An efficient programmer.</h4>
 
 - 🕵️‍♂️ I’m currently lerning redis and Vue
+
+<p align="left">😥  <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Prince" /> </p>****
