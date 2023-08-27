@@ -1,8 +1,8 @@
 <h2 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Soy Carlos Ismael Ynfante</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlsRemy" alt="Prince" /> </p>
-
 ![Descripción del GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=CarlsRemy)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con experiencia en varios lenguajes de programación y tecnologías. A continuación, encontrarás un resumen de mis habilidades y conocimientos:
 
