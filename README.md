@@ -1,20 +1,56 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Carlos Ismael</h2>
-<h4 align="center">An efficient programmer.</h4>
-
-- 🕵️‍♂️ I’m currently lerning redis and Vue
+<h2 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Soy Carlos Ismael Ynfante</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlsRemy" alt="Prince" /> </p>
 
-## 🛠️ Knowledge
+![Descripción del GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con experiencia en varios lenguajes de programación y tecnologías. A continuación, encontrarás un resumen de mis habilidades y conocimientos:
 
-### 👨‍💻 Programming and markup languages
+## 🛠️ Habilidades y Conocimientos
 
-<p>
-   <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3ACarlsRemy+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="24"></a>
-</p>
+### Lenguajes de Programación
+
+- C#
+- JavaScript (JS)
+- TypeScript
+- CSS 
+- Sass
+- HTML
+- PHP
+- Python
+- C++
+- Kotlin (nivel medio)
+- Markdown 
+
+### Frameworks
+- Node.js
+- Vue.js
+- React
+- Django
+
+### Bases de Datos  
+- SQL Server
+- MySQL
+- SQLite3
+- PostgreSQL
+- Redis
+
+## Proyectos Destacados
+
+- [📃Vim Cheat](https://github.com/CarlsRemy/VimVsCode-Cheats) - Hoja de comandos, atajos y consejos para el uso de Vim en Visual Studio Code. Esta hoja proporciona una referencia rápida para realizar acciones clave y mejorar la eficiencia en la edición y programación.
+- [📱webview Print](https://github.com/CarlsRemy/PrintApp) - Webview que implementa un **JavascriptInterface** para imprimir mediante impresora Bluethoot.
+
+## Contribuciones
+
+- 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías.
+- 👯 Si estás interesado en colaborar en algún proyecto, ¡estaré encantado de trabajar juntos!
+- 💬 No dudes en contactarme si tienes preguntas o comentarios.
+
+## Contacto
+
+Puedes encontrarme en las siguientes plataformas:
+
+- GitHub: [@CarlsRemy](https://github.com/CarlsRemy)
+- LinkedIn: [Carlos Ismael Ynfante](https://www.linkedin.com/in/carlos-ismael-ynfante/)
+- Correo Electrónico: CARLOSYNFANTE@ALUMNO.UTESA.EDU
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
