@@ -45,7 +45,7 @@
 ![CHOCOLATEY](https://img.shields.io/badge/-CHOCOLATEY-black?style=flat-square&logo=CHOCOLATEY)
 ![REPLIT](https://img.shields.io/badge/-REPLIT-black?style=flat-square&logo=REPLIT)
 ![Static Badge](https://img.shields.io/badge/IIS-Internet%20Information%20Services-black?style=flat-square&logo=iis&logoColor=%23E40000)
-
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=MOCHA)
 ### Proyectos Destacados ✨
 
 - [📃Vim Cheat](https://github.com/CarlsRemy/VimVsCode-Cheats) - Hoja de comandos, atajos y consejos para el uso de Vim en Visual Studio Code. Esta hoja proporciona una referencia rápida para realizar acciones clave y mejorar la eficiencia en la edición y programación.
